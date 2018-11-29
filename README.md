@@ -134,7 +134,7 @@ parzen <- function(xl, h, distances, type_core) {
 ```
 <p><img src= "парзокно.png">
 
-<p><img src= " 	графики ядер.png">
+<p><img src= "графики ядер.png">
 
 
 ```R
