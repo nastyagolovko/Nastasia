@@ -132,7 +132,7 @@ parzen <- function(xl, h, distances, type_core) {
    else
       return (0) 
 ```
-
+<p><img src= "парзокно.png">
 
 
 ## Преимущества 
