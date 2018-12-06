@@ -10,6 +10,8 @@
 
 [Метод потенциальных функций](https://github.com/nastyagolovko/Nastasia/blob/master/README.md#%D0%BC%D0%B5%D1%82%D0%BE%D0%B4-%D0%BF%D0%BE%D1%82%D0%B5%D0%BD%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D1%85-%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%B9)
 
+[Сравнение алгоритмов классификации](https://github.com/nastyagolovko/Nastasia#%D0%B1%D0%B0%D0%B9%D0%B5%D1%81%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B5-%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D1%8B-%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%B8-1)
+
 # [Байесовские методы классификации](https://github.com/nastyagolovko/Nastasia#%D0%B1%D0%B0%D0%B9%D0%B5%D1%81%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B5-%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D1%8B-%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%B8)
 
 [Линии уровня](https://github.com/nastyagolovko/Nastasia#%D0%BB%D0%B8%D0%BD%D0%B8%D0%B8-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F)
@@ -182,7 +184,7 @@ core.P <- function(r) (0.5)*(abs(r) <= 1) Прямоугольное ядро
 * Недостатки — в трудном выборе подходящей потенциальной функции и трудоемкости вычислений, при большом объеме обучающей выборке.
 
 
-# Сравнение алгоритмов классификации
+## Сравнение алгоритмов классификации
 
 <table>
 <tr>
