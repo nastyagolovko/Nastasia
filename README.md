@@ -208,7 +208,7 @@ core.P <- function(r) (0.5)*(abs(r) <= 1) Прямоугольное ядро
 
 <p><img src= "линиии уровня.png">
 
-<p><img src= "линиии уровня2.png">
+<p><img src= "лини уровня2.png">
   
   
-<p><img src= "линиии уровня3.png">
+<p><img src= "линии уровня3.png">
