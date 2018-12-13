@@ -150,7 +150,28 @@ parzen <- function(xl, h, distances, type_core) {
    else
       return (0) 
 ```
+
+<p><img src= "E.png">
+  
+  core.E <- function(r) (3/4)*(1-r^2)*(abs(r) <= 1) Ядро Епанечникова
+  
+<p><img src= "Q.png">
+  
+  core.Q <- function(r) (15/16)*((1 - r^2)^2)*(abs(r) <= 1) Квадратичесское ядро
+  
+<p><img src= "T.png">
+  
+  core.T <- function(r) (1 - abs(r))*(abs(r) <= 1) Треугольное ядро
+  
+<p><img src= "G.png">
+  
+  core.G <- function(r) (2*pi)^(-0.5)*exp(-0.5*(r^2)) Гауссовское ядро
+  
+  
 <p><img src= "парзокно.png">
+  
+  core.P <- function(r) (0.5)*(abs(r) <= 1) Прямоугольное ядро
+  
 
 <p><img src= "графики ядер.png">
 
