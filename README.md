@@ -400,7 +400,7 @@ inverseSigma <- solve(Sigma) alpha <- inverseSigma %*% t(mu1 - mu2)
 mu_st <- (mu1 + mu2) / 2 
 beta <- mu_st %*% alpha 
 ```
-
+  <p><img src= "лдф.png">
 
 
 # Линейные классиикаторы
